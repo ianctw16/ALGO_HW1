@@ -1,5 +1,3 @@
-from nltk.tokenize import TreebankWordTokenizer
-from nltk.tokenize import sent_tokenize
 from nltk.tokenize import RegexpTokenizer
 import time
 
@@ -7,16 +5,10 @@ f = open('TheRedandTheBlack.txt', 'r')
 a = 'Eighty-seven miles to go, yet.  Onward!'
 b = f.read()
 
-tokenizer = TreebankWordTokenizer()
+start = time.time()
+
 Regetokenizer = RegexpTokenizer(r'\w+')
-
-sent_tokenize_list =sent_tokenize(b)
-# print(tokenizer.tokenize(b))
-tokened = tokenizer.tokenize(b)
 regeTokened = Regetokenizer.tokenize(b)
-
-# print(tokened[0])
-# print(regeTokened)
 
 tokened_Len = []
 
@@ -32,8 +24,6 @@ for word in regeTokened:
 
 score = []
 tmp = 0
-
-start = time.time()
 
 for i in range(0, len(tokened_Len)):
     j = i + 1
