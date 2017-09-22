@@ -1,7 +1,8 @@
 from nltk.tokenize import RegexpTokenizer
 import time
 
-f = open('TheRedandTheBlack.txt', 'r')
+# f = open('TheRedandTheBlack.txt', 'r')
+f = open('Crime_and_Punishment_Fyodor_Dostoyevsky-Total words 34004-Unique words 3331.txt', 'r')
 a = 'Eighty-seven miles to go, yet.  Onward!'
 b = f.read()
 
