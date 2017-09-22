@@ -19,12 +19,23 @@ for i in range(0, len(regeTokened)):
     else:
         result[regeTokened[i]] += 1
 
+# print(result)
 
 checknum = 1
-control = 0
+biggest = 0
 
 for key, value in result.items():
-    # print(key)
-    if(value == checknum):
-        print(key, end="    ")
-        control = 1
+    if(value > biggest):
+        biggest = value
+
+print(biggest)
+
+checknum = biggest
+
+while(checknum >= 1):
+    print(checknum, ':', end=' ')
+    for key, value in result.items():
+        if(value == checknum):
+            print(key, end='    ')
+    print()
+    checknum -= 1
