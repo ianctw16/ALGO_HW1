@@ -1,1 +1,1 @@
-# algorithm_HW1
+# ALGO_HW1
