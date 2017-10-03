@@ -4,6 +4,8 @@ import time
 # f = open('TheRedandTheBlack.txt', 'r')
 # f = open('Crime_and_Punishment_Fyodor_Dostoyevsky-Total words 34004-Unique words 3331.txt', 'r')
 # f = open('Forrest_Gump-John_Escott-Total words 9095-Unique words 1012.txt')
+# f = open('The_Citadel-A_J_Cronin-Total words 36702-Unique words 2556.txt')
+# f = open('The_Old_Man_and_the_Sea-Ernest_Hemingway-Total words 12759-Unique words 1203.txt')
 f = open('Spider-man-Stan_Lee-Total words 4342-Unique words 514.txt')
 a = 'Eighty-seven miles to go, yet.  Onward!'
 b = f.read()
