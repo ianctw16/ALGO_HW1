@@ -1,27 +1,32 @@
 from nltk.tokenize import RegexpTokenizer
 import time
 
+# open txt file.
 # f = open('TheRedandTheBlack.txt', 'r')
 # f = open('Crime_and_Punishment_Fyodor_Dostoyevsky-Total words 34004-Unique words 3331.txt', 'r')
-# f = open('Forrest_Gump-John_Escott-Total words 9095-Unique words 1012.txt')
-# f = open('The_Citadel-A_J_Cronin-Total words 36702-Unique words 2556.txt')
-# f = open('The_Old_Man_and_the_Sea-Ernest_Hemingway-Total words 12759-Unique words 1203.txt')
-f = open('Spider-man-Stan_Lee-Total words 4342-Unique words 514.txt')
+# f = open('Forrest_Gump-John_Escott-Total words 9095-Unique words 1012.txt', 'r')
+# f = open('The_Citadel-A_J_Cronin-Total words 36702-Unique words 2556.txt', 'r')
+# f = open('The_Old_Man_and_the_Sea-Ernest_Hemingway-Total words 12759-Unique words 1203.txt', 'r')
+f = open('Spider-man-Stan_Lee-Total words 4342-Unique words 514.txt', 'r')
 a = 'Eighty-seven miles to go, yet.  Onward!'
 b = f.read()
 
+# start counting execution time
 start = time.time()
 
+# separate words and store in list
 Regetokenizer = RegexpTokenizer(r'\w+')
 regeTokened = Regetokenizer.tokenize(b)
 
 score = 0
 
+# let all words be low case.
 for i in range(0, len(regeTokened)):
     regeTokened[i] = regeTokened[i].lower()
 
 print(regeTokened)
 
+# main part. start in first word and check the rest which one's ascII is small than it.
 for i in range(0, len(regeTokened)):
     j = i + 1
     print(ord(regeTokened[i][0]))
@@ -30,9 +35,21 @@ for i in range(0, len(regeTokened)):
             score = score + 1
         j = j + 1
 
-print(time.time() - start)
+# print result
+print("******************************************************************")
+print('Program total execution time:', end=' ')
+result_time = time.time() - start
+print(result_time)
 print("******************************************************************")
 print(score)
+
+# save result in txt file
+s = open('OUTPUT-B.txt', 'w')
+s.write('Program total execution time: ')
+s.write(str(result_time))
+s.write('\n\n******************************************************************\n\n')
+s.write(str(score))
+s.close()
 """
 for word in regeTokened:
     # print(word, len(word))
