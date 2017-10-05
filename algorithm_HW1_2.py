@@ -12,6 +12,17 @@ f = open('Spider-man-Stan_Lee-Total words 4342-Unique words 514.txt', 'r')
 a = 'I I You i u you'
 b = f.read()
 
+
+# let output print in order
+def printStoreKey(store_key):
+    while(len(store_key) != 0):
+        try:
+            print(min(store_key), end='     ')
+            store_key.remove(min(store_key))
+        except:
+            pass
+
+
 # start counting execution time
 start = time.time()
 
@@ -43,13 +54,17 @@ for key, value in result.items():
 # print(biggest)
 
 checknum = biggest
+store_key = []
 
 # main part. start in biggest word in dictionary and decrease to find other word
 while(checknum >= 1):
+    store_key = []
     print(checknum, ':', end=' ')
     for key, value in result.items():
         if(value == checknum):
-            print(key, end='    ')
+            # print(key, end='    ')
+            store_key.append(key)
+    printStoreKey(store_key)
     print()
     checknum -= 1
 
