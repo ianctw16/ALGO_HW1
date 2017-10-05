@@ -29,10 +29,22 @@ print(regeTokened)
 # main part. start in first word and check the rest which one's ascII is small than it.
 for i in range(0, len(regeTokened)):
     j = i + 1
-    print(ord(regeTokened[i][0]))
+    # print(ord(regeTokened[i][0]))
     while(j < len(regeTokened)):
         if(ord(regeTokened[i][0]) > ord(regeTokened[j][0])):
             score = score + 1
+        elif(ord(regeTokened[i][0]) == ord(regeTokened[j][0])):
+            try:
+                if(ord(regeTokened[i][1]) > ord(regeTokened[j][1])):
+                    score = score + 1
+                elif(ord(regeTokened[i][1]) == ord(regeTokened[j][1])):
+                    try:
+                        if(ord(regeTokened[i][2]) > ord(regeTokened[j][2])):
+                            score = score + 1
+                    except:
+                        pass
+            except:
+                pass
         j = j + 1
 
 # print result
@@ -44,7 +56,7 @@ print("******************************************************************")
 print(score)
 
 # save result in txt file
-s = open('OUTPUT-B.txt', 'w')
+s = open('OUTPUT-A.txt', 'w')
 s.write('Program total execution time: ')
 s.write(str(result_time))
 s.write('\n\n******************************************************************\n\n')

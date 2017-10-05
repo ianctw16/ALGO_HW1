@@ -52,7 +52,10 @@ while(checknum >= 1):
             print(key, end='    ')
     print()
     checknum -= 1
+
 # print result
+print("******************************************************************")
+print('Program total execution time:', end=' ')
 result_time = time.time() - start
 print(result_time)
 print("******************************************************************")
