@@ -37,7 +37,7 @@ for i in range(0, len(regeTokened)):
 result = {}
 # result_time = []
 
-# sotre all words in dictionary and count its time.
+# sotre all words in dictionary and count its frequences.
 for i in range(0, len(regeTokened)):
     if(regeTokened[i] not in result):
         result[regeTokened[i]] = 1
