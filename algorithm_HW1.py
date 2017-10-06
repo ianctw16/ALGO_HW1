@@ -17,6 +17,7 @@ start = time.time()
 # separate words and store in list
 Regetokenizer = RegexpTokenizer(r'\w+')
 regeTokened = Regetokenizer.tokenize(b)
+f.close()
 
 score = 0
 
@@ -62,12 +63,13 @@ print('Program total execution time:', end=' ')
 result_time = time.time() - start
 print(result_time)
 print("******************************************************************")
-print(score)
+print('Entropy: ', score)
 
 # save result in txt file
 s = open('OUTPUT-A.txt', 'w')
 s.write('Program total execution time: ')
 s.write(str(result_time))
 s.write('\n\n******************************************************************\n\n')
+s.write('Entropy: ')
 s.write(str(score))
 s.close()

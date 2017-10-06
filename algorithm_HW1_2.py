@@ -29,10 +29,19 @@ start = time.time()
 # start counting execution time
 Regetokenizer = RegexpTokenizer(r'\w+')
 regeTokened = Regetokenizer.tokenize(b)
+f.close()
 
 # let all words be low case.
 for i in range(0, len(regeTokened)):
     regeTokened[i] = regeTokened[i].lower()
+
+# check charactor not in ascII 97~122
+for i in range(0, len(regeTokened)):
+    try:
+        if(ord(regeTokened[i][0]) not in range(97, 122)):
+            regeTokened.remove(regeTokened[i])
+    except:
+        pass
 
 result = {}
 # result_time = []
