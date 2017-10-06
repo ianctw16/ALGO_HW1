@@ -1,8 +1,200 @@
-Program total execution time: 0.156294584274292
+Program total execution time: 0.31008124351501465
 
 ******************************************************************
 
-249:the 
+441:i 
+440:
+439:
+438:
+437:
+436:
+435:the 
+434:
+433:
+432:
+431:
+430:
+429:
+428:
+427:
+426:
+425:
+424:
+423:
+422:
+421:
+420:
+419:
+418:
+417:
+416:
+415:
+414:
+413:
+412:
+411:
+410:
+409:
+408:
+407:
+406:
+405:and 
+404:
+403:
+402:
+401:
+400:
+399:
+398:
+397:
+396:
+395:
+394:
+393:
+392:
+391:
+390:
+389:
+388:
+387:
+386:
+385:
+384:
+383:
+382:
+381:
+380:
+379:
+378:
+377:
+376:
+375:
+374:
+373:
+372:
+371:
+370:
+369:
+368:
+367:
+366:
+365:
+364:
+363:
+362:
+361:
+360:
+359:
+358:
+357:
+356:
+355:
+354:
+353:
+352:
+351:
+350:
+349:
+348:
+347:
+346:
+345:
+344:
+343:
+342:
+341:
+340:
+339:
+338:
+337:
+336:
+335:
+334:
+333:
+332:
+331:
+330:
+329:
+328:
+327:
+326:
+325:
+324:
+323:
+322:
+321:
+320:
+319:
+318:
+317:to 
+316:
+315:
+314:
+313:
+312:
+311:
+310:
+309:
+308:
+307:
+306:
+305:
+304:
+303:
+302:
+301:
+300:
+299:
+298:
+297:
+296:
+295:
+294:
+293:
+292:
+291:
+290:
+289:
+288:
+287:
+286:
+285:
+284:
+283:
+282:
+281:
+280:
+279:
+278:
+277:
+276:
+275:
+274:
+273:
+272:
+271:
+270:
+269:
+268:
+267:
+266:
+265:
+264:
+263:
+262:
+261:
+260:
+259:
+258:
+257:
+256:
+255:
+254:
+253:
+252:
+251:
+250:
+249:
 248:
 247:
 246:
@@ -32,7 +224,7 @@ Program total execution time: 0.156294584274292
 222:
 221:
 220:
-219:
+219:was 
 218:
 217:
 216:
@@ -40,7 +232,7 @@ Program total execution time: 0.156294584274292
 214:
 213:
 212:
-211:
+211:a 
 210:
 209:
 208:
@@ -80,7 +272,7 @@ Program total execution time: 0.156294584274292
 174:
 173:
 172:
-171:
+171:me 
 170:
 169:
 168:
@@ -98,7 +290,7 @@ Program total execution time: 0.156294584274292
 156:
 155:
 154:
-153:he 
+153:
 152:
 151:
 150:
@@ -120,32 +312,32 @@ Program total execution time: 0.156294584274292
 134:
 133:
 132:
-131:
+131:in 
 130:
 129:
-128:peter 
-127:and 
-126:
+128:
+127:that 
+126:he 
 125:
 124:
 123:
 122:
 121:
-120:
+120:it 
 119:
 118:
 117:
 116:
-115:
+115:of 
 114:
 113:
 112:
 111:
-110:
-109:
+110:said 
+109:but 
 108:
 107:
-106:
+106:you 
 105:
 104:
 103:
@@ -154,100 +346,100 @@ Program total execution time: 0.156294584274292
 100:
 99:
 98:
-97:a 
-96:
+97:
+96:t 
 95:
 94:
 93:
 92:
 91:
-90:was 
+90:
 89:
 88:
 87:
 86:
 85:
 84:
-83:
+83:she 
 82:
 81:
 80:
 79:
 78:
-77:said to 
-76:s 
+77:
+76:then we 
 75:
-74:
-73:man 
-72:you 
+74:with 
+73:
+72:
 71:
-70:i 
+70:jenny my 
 69:
 68:
 67:
 66:
-65:mj 
+65:on 
 64:
-63:
-62:
-61:spider 
+63:for 
+62:s 
+61:went at 
 60:
 59:
-58:his 
-57:
+58:
+57:there were 
 56:
 55:
-54:
+54:got when 
 53:
 52:
-51:at 
-50:it 
-49:in 
+51:
+50:they 
+49:
 48:
-47:of 
+47:
 46:
 45:
-44:then 
-43:
-42:
+44:up all 
+43:her 
+42:an asked 
 41:
 40:
-39:
-38:t she 
-37:
-36:
-35:green goblin 
-34:on osborn 
-33:but 
-32:harry 
-31:there 
-30:with 
-29:for 
-28:
-27:him 
-26:m 
-25:that her 
-24:
-23:looked building car 
-22:
-21:saw into very 
-20:ben up can are 
-19:uncle hit jumped about 
-18:glider right out took me 
-17:they is were went 
-16:thought father room 
-15:cable oscorp down mr flash 
-14:fight suddenly shouted we day walked from people 
-13:back didn smiled aunt not may shot going 
-12:some eyes too school 
-11:around this put ran one norman webbing no dead wasn came what great 
-10:new again hand work my stopped turned laughed now 
-9:love had re two chapter started everyone opened gas did want know heard good big door terrible body 
-8:time stromm woman crashed cried top bone away late your men later next all left money be 
-7:so go street pulled old parker through strong called bridge things let hands only asked 
-6:when tell angry fantastic across little front wall window face something different over other must an moved who sorry night have newspaper 
-5:life someone spiders arms feel photos watched quietly last crazy screamed soon don behind us after onto happened special sat few quickly together 
-4:first crazily oh floor stop slowly well bus important their everything sadly like bugle just answered more home exploded alone flat red daily hard minutes always knew hey tried world talk much costume happy manhattan three number weeks here start job see knows fargas wanted died arrived 
-3:live buyers six or hospital tall doing camera queensboro frightened lot roosevelt avenue scientist ha science isn jameson garden fast york shout four beautiful island ready look family high children name evening broadway where glided table laugh woke news driver close them buildings come need second yeah dream yellow fall give seconds thing hi those house sense hear white gave under bad lunch cool saved help followed worked 
-2:institute quiet worst thanksgiving got make road smile maybe try closed test friend unity makes wait comes please fifth yes talked responsibility die selling teacher every stronger kissed power pictures these boy working mother morning problem move best bedroom head how photographer station helped food party mask both surprise part ok class save quest line bits because answer another also times say dr blue does why hair aerospace streets chair finish photo person everybody bed easy dark sad higher same sky angrily anything loved bag looking almost thanks between restaurant do square fly girl festival still 
-1:boat once dad phone black really lights scream girls dinner columbia aaagh hot play jane haven never tired football drive clock without am er our ah feet needed loves ow royce long near closer listened exciting five stories friends giving words forget everywhere bought nine lived light thank fourteen tables takes think questions arm ends lines as cars schoolwork rider surprised story closely webs year way will take jobs wake today seven many breaking newspapers player bigger starts yet excited pay trees police fun bit fighter enjoy understand understood fifteen boyfriend changing choose careful research bring families true water worse louder plays eight whoohoo rain difficult by remembered sleeping knocked kiss sixth ugly foot cinderella burger woohoo liked rolls ten watson end finishes genetic tests beautifully sound ride off student town earlier its get find fire often paper used nothing brother teeth lots cry sometime smash shouts opposite told radio living already before d explosion others read met rich mcgraw empty parts city quick mary week girlfriend o better doors carefully says team 
+39:about 
+38:after 
+37:us didn back 
+36:came do 
+35:forrest people out 
+34:him 
+33:so 
+32:man one 
+31:had 
+30:
+29:just told two day 
+28:some started them 
+27:play what next 
+26:into again 
+25:our his men ran 
+24:who 
+23:put playing 
+22:like 
+21:mom go from things 
+20:away idiot well 
+19:re get did don saw 
+18:lot school night big other mr sue very began know down 
+17:good this football time can bus enemy want bubba took or going 
+16:soldiers chess looked where could round long 
+15:boy why group how suddenly 
+14:everybody harmonica ok wasn sat business room coach not place something little tribble game 
+13:army see here be home later 
+12:really found because money have come chapter more president jungle wanted 
+11:yes shooting walked off m say somebody hand across shrimp are think year played 
+10:before gump is your find called catch girl threw house five hair won car knew now name 
+9:look too ball university wrong hour gave ve old three stay shouted first another hotel ape 
+8:way by heard medal live happened couldn start as curran floor field stopped bar thing soon talked afternoon station 
+7:everything no film left hospital bryant sitting perhaps morning years town make mobile right run their pleased colonel sometimes tournament cook shouting outside happen over 
+6:honest try wrestling ll daddy nice taught fast strange happy gun anything days finished take letter six door tried face fellers space four broken than blew while dollars am minute almost still shrimps 
+5:few gooch wearing past police myself woman angry phoned trees only eyes move club learn arrived winning waiting work win hurt behind hodaddy dress near ground students vietnam breakfast thousand important team waited thought hear trouble front others watched half hill rudolph until taking doyle running listened crying 
+4:early looking practice music arms bad oh watching flat somewhere nobody water curtis fight cup stomach minutes welch if felder centre eat arm wrote nasa help getting finally hit eggs friends kind boston stupid wonderful will making strong bit friend towards pulled ever which every meant hole washington sing wait would food war most line rest several always terrible boys machine screaming plane drink real player met ivan against months meet nothing doing lose tell 
+3:give late bought thinking goodbye ticket love ten boiler lots middle sure o window mine course today last rice jumped helped turned picked train himself understood lessons between bet office end weeks stayed actor moses table hours has different ask standing coming son opened laughing decided planned pull screamed smiled coffee sent america together prison indianapolis best white american foot factory boat worked talk mike never clothes throw week born helicopters cinema aren tv goal times inside worried clock lost airport ago pretty better seemed high garden number savannah laughed tree watch talking showed isn luck held dead cry friday fire killed teacher walk address send evening married write leave moved nine saying miss valley bananas throwing 
+2:having nights sam walking voice hills under lunch without cried new empty songs market lived full summer enough boyfriend hands stop cafe month park probably tomorrow newspapers blow let free weasel hard explained ride spring ordinary changed teach world ready frightened idea fell bones raquel everywhere danang shut remember harvard mistake used news eight works blood seven shake hundreds pots telling young hungry policemen any realized temperer easy both quietly cupboard toilet far read questions quiet killing please maybe parents noise california trousers black hundred animal lower bullets learned rooms tall difficult happiest names clever bed surprised building finish north suitcase been thirty angeles idiots dear speak kinds song sir tonight second anywhere leg once feet understand jeans shot nets listen hitting dirty head story sit much wild flower through shower los texas suit open matter beards loved secretly immediately anybody caught legs chair died net special shook die kissing made shirt looks singing instead fish doctors side apple famous grenades gone grey grass able brave 
+1:nearly band shoulders felt easily babies bonnie clyde alive smile chinking wore alabama girls returned hurried ate thirteen untidy call francisco tired husband wheel planes twenty cooked decide milk hot noises paper cigarette surprise noticed student beginning smelled tells yours angrily ships waiter prettiest somehow pushing answer missed kiss colour father sounded named listening desk pink halfway working warm straight glasses onto dressed wrestled baby family soldier selling boats happily eleven already mirror chicago beautiful guns upstairs followed georgia lives journey corner nearer cannot inches donald banana funny older yesterday life danger guess kicker shaking skin shrimping orders potatoes remembered does yard crashed clean cake driver box ill photographs undress seem final dangerous fort autumn saturday crowds shout eating sound russian hasn silent san paid loud smoke welcome must shoe longer mattered safe dinner flying sorry newspaper faces broke need weren male also shoot taxi slowly blue sleeping many grown keep brown ship small travelling happens louder interested batre orange known jumping doors hurry plenty sad crashing taste children meeting bayou women twelve sleep waved cooks queen radio united often same crash colours buildings la low short street true catching beer medals bowl burned tomato top apples bag needed tins carefully thick calling worst leaving flowers lines marry losers each pot during rain metal loudly page windows grew houston fifteen guessed excited throwers showers sixteen great locked change henderson stand pig suitcases tables ourselves pushed bigger metres chi grow singer wear parties continued gwinn nashville hide fifty games carolina reading unpleasant lying liked telephone climbed drove star helping wants cooking rich benning beach smoking states winter pocket seventy beverly growing losing waitress living acting lucky drinks crossing smell plays sea heavier light theirs conversation along tickets smiling shoulder river glass spaceman doesn closed none films escape job part tomatoes person woke miami language fights holding sun reply holiday softly cost cleverer worse 
