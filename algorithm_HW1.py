@@ -24,7 +24,16 @@ score = 0
 for i in range(0, len(regeTokened)):
     regeTokened[i] = regeTokened[i].lower()
 
-print(regeTokened)
+# print(len(regeTokened))
+# check charactor not in ascII 97~122
+for i in range(0, len(regeTokened)):
+    try:
+        if(ord(regeTokened[i][0]) not in range(97, 122)):
+            regeTokened.remove(regeTokened[i])
+    except:
+        pass
+
+# print(len(regeTokened))
 
 # main part. start in first word and check the rest which one's ascII is small than it.
 for i in range(0, len(regeTokened)):
