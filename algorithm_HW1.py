@@ -18,6 +18,7 @@ start = time.time()
 Regetokenizer = RegexpTokenizer(r'\w+')
 regeTokened = Regetokenizer.tokenize(b)
 f.close()
+regeTokened = list(map(str, regeTokened))
 
 score = 0
 
@@ -26,13 +27,13 @@ for i in range(0, len(regeTokened)):
     regeTokened[i] = regeTokened[i].lower()
 
 # print(len(regeTokened))
-# check charactor not in ascII 97~122
-for i in range(0, len(regeTokened)):
-    try:
+# check list's characters are all in ascII 97~122
+i = 0
+while(i != len(regeTokened)):
         if(ord(regeTokened[i][0]) not in range(97, 122)):
             regeTokened.remove(regeTokened[i])
-    except:
-        pass
+            i = i - 1
+        i = i + 1
 
 # print(len(regeTokened))
 

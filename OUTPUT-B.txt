@@ -1,4 +1,4 @@
-Program total execution time: 0.17172455787658691
+Program total execution time: 0.16794562339782715
 
 ******************************************************************
 
@@ -217,7 +217,7 @@ Program total execution time: 0.17172455787658691
 37:
 36:
 35:green goblin 
-34:osborn on 
+34:on osborn 
 33:but 
 32:harry 
 31:there 
@@ -228,26 +228,26 @@ Program total execution time: 0.17172455787658691
 26:m 
 25:that her 
 24:
-23:looked building car 
+23:building looked car 
 22:
 21:into very saw 
-20:are can ben up 
-19:about uncle hit jumped 
-18:took glider me right out 
-17:they is went were 
+20:up are can ben 
+19:about jumped uncle hit 
+18:glider me right out took 
+17:is they went were 
 16:room father thought 
-15:flash down mr cable oscorp 
-14:walked people shouted we suddenly from fight day 
-13:going aunt didn back shot smiled may not 
-12:eyes school some too 
-11:dead this great what wasn webbing norman no around put ran one came 
-10:hand now turned laughed stopped my new work again 
-9:gas big body love re had door know heard did everyone good started terrible want opened two chapter 
-8:time crashed left men money stromm all bone late cried woman next away later your be top 
-7:things parker pulled go old hands street only through so called bridge strong asked let 
-6:newspaper moved an over have front little who different across sorry face when tell other angry must something window night wall fantastic 
-5:behind life special after last happened quickly someone don screamed onto feel sat crazy quietly together soon watched photos few spiders us arms 
-4:world number weeks floor much sadly fargas crazily minutes stop answered died first everything hey like daily three always just knows bugle hard wanted talk slowly bus job arrived home more exploded manhattan red see important tried knew costume alone oh happy flat well their here start 
-3:evening avenue buyers ha seconds fast hear garden dream hospital lunch come laugh isn beautiful six table cool glided yellow island queensboro worked look buildings woke or them saved tall children science thing high news under hi roosevelt frightened driver close gave where family shout help bad need jameson broadway followed scientist sense camera live four give doing york yeah house ready name white lot fall second those 
-2:do makes higher sky move best square selling streets test please teacher maybe person blue anything chair mother still between another bag hair loved try pictures make how boy photographer looking restaurant part dark institute thanks head bed wait quiet power bits talked easy angrily closed problem why kissed every times finish got party comes smile ok fly worst these does girl photo thanksgiving because dr line bedroom aerospace working responsibility also save festival die everybody fifth morning stronger almost both quest surprise sad same unity answer mask road yes say friend station helped food class 
-1:haven o starts aaagh paper newspapers as once understand clock liked take lived eight without jobs its football play hot find families dad bought city often says sleeping ah beautifully remembered 000 lines many near research true told whoohoo d choose bigger tests read sixth lots kiss empty ends way 100 team closer webs friends get er jane police yet drive phone woohoo plays really louder knocked rolls town used smash finishes mcgraw parts water cars think week enjoy long living ow schoolwork girls sometime everywhere words fifteen shouts year carefully dinner difficult scream trees questions cinderella will cry black sound arm nothing end radio thank fighter boyfriend explosion our watson changing fun better am takes rider columbia ride 84 never light careful tired stories student girlfriend five fire story genetic loves worse boat breaking doors understood brother today foot giving ugly already met needed bit excited by off pay others seven forget surprised nine listened opposite player royce ten mary teeth fourteen burger feet bring lights wake rain tables closely quick exciting rich earlier before 
+15:down mr oscorp flash cable 
+14:we from walked shouted day people fight suddenly 
+13:aunt didn may going not back smiled shot 
+12:school too some eyes 
+11:great one what no ran came this webbing norman dead put around wasn 
+10:now laughed stopped again work my new hand turned 
+9:love had re two did big gas started door heard terrible everyone chapter body opened good want know 
+8:your cried away top stromm left all next later money crashed bone be men late time woman 
+7:called go pulled only let so strong parker through things asked street old hands bridge 
+6:tell over across sorry who window moved different newspaper wall fantastic when face an angry other little front something night must have 
+5:last quickly quietly after don sat happened onto screamed feel life arms behind someone photos soon spiders us few together watched special crazy 
+4:sadly hard red everything bus knew bugle number three here hey just knows exploded stop always job answered crazily more flat slowly first daily costume like minutes see happy manhattan their fargas talk much well died tried arrived alone floor oh weeks world wanted home important start 
+3:evening or six isn help tall ha four hi lot those sense island children roosevelt shout lunch queensboro science need news live followed saved bad under name cool buildings give driver beautiful second glided laugh hospital worked yellow seconds camera house hear garden broadway york doing scientist yeah come fast look them white fall jameson ready woke avenue frightened thing family gave buyers close high where dream table 
+2:stronger bits girl quiet looking got best square everybody aerospace power fifth fly unity try same mask every say person teacher bedroom does also why blue move almost ok dark bed these finish selling times thanksgiving line because thanks party head surprise test anything bag problem makes boy worst dr mother maybe save chair how still food make angrily another do quest pictures answer sky kissed both smile comes photo part class responsibility helped loved morning talked station restaurant easy closed road wait higher sad festival photographer yes hair friend streets between please working die institute 
+1:takes girlfriend rolls hot team yet aaagh royce lots lines near already off city arm research lights questions never whoohoo pay ugly worse play bigger stories trees says excited rider friends schoolwork cinderella webs end mcgraw take fifteen mary story read clock today remembered tests am bring met doors louder its parts smash black week carefully true boyfriend shouts knocked o changing nine paper thank brother fire water eight families words haven ends jobs nothing sometime better understood dinner teeth phone starts ride foot feet difficult earlier exciting find our student will breaking opposite cars player before used closely explosion boat lived without by girls sleeping careful ten liked woohoo dad giving watson everywhere once way town seven newspapers d living listened as bought radio rich cry choose plays loves tired told kiss rain quick get fourteen drive enjoy needed burger football really genetic closer long five finishes understand columbia ah er forget empty sound beautifully sixth ow fun tables jane police think surprised often light year others scream bit many fighter wake 

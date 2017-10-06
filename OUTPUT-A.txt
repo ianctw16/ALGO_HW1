@@ -1,5 +1,5 @@
-Program total execution time: 8.226892232894897
+Program total execution time: 8.171404600143433
 
 ******************************************************************
 
-Entropy: 5398082
+Entropy: 5393523

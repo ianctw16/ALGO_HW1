@@ -30,21 +30,21 @@ start = time.time()
 Regetokenizer = RegexpTokenizer(r'\w+')
 regeTokened = Regetokenizer.tokenize(b)
 f.close()
+regeTokened = list(map(str, regeTokened))
 
 # let all words be low case.
 for i in range(0, len(regeTokened)):
     regeTokened[i] = regeTokened[i].lower()
 
-# check charactor not in ascII 97~122
-for i in range(0, len(regeTokened)):
-    try:
+# check list's characters are all in ascII 97~122
+i = 0
+while(i != len(regeTokened)):
         if(ord(regeTokened[i][0]) not in range(97, 122)):
             regeTokened.remove(regeTokened[i])
-    except:
-        pass
+            i = i - 1
+        i = i + 1
 
 result = {}
-# result_time = []
 
 # sotre all words in dictionary and count its frequences.
 for i in range(0, len(regeTokened)):
@@ -55,7 +55,7 @@ for i in range(0, len(regeTokened)):
 
 biggest = 0
 
-# find the bigget time in dictionary.
+# find the bigget word frequence in dictionary.
 for key, value in result.items():
     if(value > biggest):
         biggest = value
