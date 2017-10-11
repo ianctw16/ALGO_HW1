@@ -14,8 +14,8 @@ if(opt_input == '1'):
     f = open('Crime_and_Punishment_Fyodor_Dostoyevsky-Total words 34004-Unique words 3331.txt', 'r')
 elif(opt_input == '2'):
     f = open('Forrest_Gump-John_Escott-Total words 9095-Unique words 1012.txt', 'r')
-elif(opt_input == '3'):
-    f = open('The_Citadel_A_J_Cronin_Total_words_36702_Unique_words_2556.txt', 'r')
+# elif(opt_input == '3'):
+    # f = open('The_Citadel_A_J_Cronin_Total_words_36702_Unique_words_2556.txt', 'r')
 elif(opt_input == '4'):
     f = open('The_Old_Man_and_the_Sea-Ernest_Hemingway-Total words 12759-Unique words 1203.txt', 'r')
 elif(opt_input == '5'):
