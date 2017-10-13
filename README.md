@@ -1,6 +1,4 @@
 # ALGO_HW1 #
-### 陳奕寧  60547079S ianchen14@gmail.com #
-
 #### 環境與需求:
 * 執行語言: python3
 * 程式檔: algorithm_HW1.py algorithm_HW1_2.py
