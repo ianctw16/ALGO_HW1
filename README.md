@@ -16,7 +16,8 @@
 
 #### 執行:  
 1.  開啟終端機 cd 到 程式碼的資料夾下  
-2.  輸入 python 檔案名.py ```algorithm_HW1.py``` ```algorithm_HW1_2.py```
+2.  輸入 python 檔案名.py ```python algorithm_HW1.py``` ```python algorithm_HW1_2.py```
+3. 終端機會顯示結果，及儲存在 ```OUTPUT-A.txt``` 或 ```OUTPUT-B.txt```
 
 #### 程式內:  
 1.  輸入要執行的文件的號碼
